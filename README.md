@@ -1,1 +1,1 @@
-# 1.k-2.s---DC-AC-power-meter
+# 1.k 2.s DC/AC power meter
