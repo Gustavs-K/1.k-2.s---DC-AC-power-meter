@@ -2,6 +2,8 @@
 
 Elek_merijumu-jaudas_metrs / Elek_merijumu-jaudas_metrs.ino --- Kods
 
+Praktiskie_atteli / ... --- Praktiskā prototipa attēli
+
 DC AC power meter - atskaite.docx --- Atskaite
 
 Elek-mer-projekts.fzz --- Fritzint makets
